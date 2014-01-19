@@ -3,8 +3,12 @@
  <body>
 
 <?php
-
- echo "My first PHP script!";
+//tek satır
+# tek satır
+/*
+ * çoklu satır 
+ */
+ echo "Holla mundo!";
  
  ?>
 
